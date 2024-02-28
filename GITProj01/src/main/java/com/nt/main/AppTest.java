@@ -6,8 +6,9 @@ public class AppTest {
 		ArithmeticOperations ar=new ArithmeticOperations();
 		System.out.println("sum:"+ar.sum(100, 200));
 		System.out.println("sub:"+ar.sub(100, 200));
+        System.out.println("--------");//abc
         System.out.println("--------");
-        System.out.println("--------");
+        System.out.println("mul:"+ar.mul(100, 200));//456 789
 	}
 
 }
