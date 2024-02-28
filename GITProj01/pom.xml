@@ -23,11 +23,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-<<<<<<< HEAD
-      <scope>compile</scope>
-=======
       <scope>runtime</scope>
->>>>>>> branch 'master' of https://github.com/Katta-Pavani/FS902Repo.git
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-context-support -->
 <dependency>
